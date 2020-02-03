@@ -2,4 +2,5 @@
 
 You can see [privacy policy](https://github.com/basicsolutions2/basicsolutions2.github.io/edit/master/Privacy Policy.pdf) for Saver here.
  
-  
+  <embed src="https://github.com/basicsolutions2/basicsolutions2.github.io/edit/master/Privacy Policy.pdf" type="application/pdf" />
+
